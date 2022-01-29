@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kenzie.app.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-29T05:55:19" hostname="Benjamins-MacBook-Pro.local" time="0.063">
+  <properties/>
+  <testcase name="runMainWithoutCrashing()" classname="com.kenzie.app.MainTest" time="0.063"/>
+  <system-out><![CDATA[Hello World!
+My name is Benjamin Spielman
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
